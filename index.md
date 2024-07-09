@@ -8,3 +8,7 @@
 int x=0
 cout("x=",x)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
